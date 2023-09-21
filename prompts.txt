@@ -1,0 +1,72 @@
+Kan je voor mij de sql geven voor een 
+database met naam "klantcrud"?
+
+Kan je voor mij de php geven voor 
+de klasse "Klant.php"? Ik wil graag de 
+properties, een constructor 
+en de setters en getters hebben.
+
+Kan je een programma maken met de 
+naam testKlant.php dat een object 
+aanmaakt en de properties afdrukt?
+
+Kan je een programma voor me maken 
+met de naam connectDB.php dat een 
+verbinding maakt met de database 
+en PDO gebruikt? 
+Hostname = localhost, 
+username = root, 
+geen wachtwoord 
+en de database heet klantcrud.
+
+Kan je een methode maken voor Klant.php 
+die een connectie met behulp van connectDB.php 
+maakt met de database en alle gegevens uit de 
+klantentabel afdrukt? 
+De methode krijgt de naam klantRead()?
+
+Kan je een formulier voor me maken met de naam 
+klantCreate.html?
+
+Kan je een methode klantCreate() maken die 
+de gegevens in de tabel zet?
+
+Kan je een programma maken met de naam 
+verwerkKlant.php dat de gegevens van 
+klantCreate.html in de tabel zet en 
+daarna de gegevens afdrukt?
+
+Kan je een programma voor me maken met 
+de naam klantRead.php dat de methode 
+klantRead() gebruikt om alle gegevens 
+van alle klanten te laten zien?
+
+kan je een methode met de naam klantReadTabel()
+maken die alle gegevens in een tabel laat zien?
+
+Kan je een programma voor me maken met de naam 
+klantRead.php dat de methode klantReadTabel() 
+gebruikt om alle gegevens van alle klanten 
+te laten zien?
+
+Kan je een formulier voor me maken met de 
+naam klantSearch.html dat een klantid opvraagt 
+en daarna het programma met de 
+naam klantVerwerkSearch.php gebruikt?
+
+Kan je een formulier voor me maken met de naam 
+klantDelete.html dat een klantid opvraagt en 
+dan het id doorgeeft aan het programma 
+klantDeleteVerwerk.php? 
+
+Kan je een methode voor me maken met de naam 
+klantDelete() die de gegevens van dat klantid 
+laat zien, daarna vraagt of je ze wilt 
+verwijderen en bij bevestiging de gegevens 
+van die klant verwijdert uit de database?
+
+
+
+
+
+
